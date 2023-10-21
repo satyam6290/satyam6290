@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Satyam6290, and I have a strong passion for pr
 
 - **Name:** Satyam6290
 - **Interests:** Web Development, Application Development
-- **Location:** [Your Location]
+- **Location:**  chennai
 
 ## What You'll Find Here
 
@@ -24,8 +24,8 @@ My GitHub profile is a reflection of my interests, skills, and contributions to 
 
 I'm always open to collaborating on exciting projects or discussing common interests. Feel free to reach out to me via:
 
-- Email: [sirsatyamchaudhary@email.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: sirsatyamchaudhary@email.com
+- LinkedIn:
   
 ## Let's Collaborate
 
