@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on open-source projects that have a positive impact on society or push the boundaries of technology.
 
-- 📫 You can reach me via email at [satyam@example.com](mailto:sirsatyamchaudhary@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/satyam-kumar-a7215b239/).
+- 📫 You can reach me via email at (mailto:sirsatyamchaudhary@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/satyam-kumar-a7215b239/).
 
 - 😄 Pronouns: He/Him
 
