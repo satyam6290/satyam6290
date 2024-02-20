@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/11ZNLTstb1zOV16FrenPdV7hZQOCeEN8Y/view?usp=sharing"  />
-</div>
 
 ###
 
@@ -79,8 +76,8 @@
 
 
 ###
-<br>
-<br>
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
