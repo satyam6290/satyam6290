@@ -1,9 +1,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=satyam6290.satyam6290&"  />
-</div>
+
 
 ###
 
